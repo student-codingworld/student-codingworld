@@ -1,25 +1,6 @@
-## Hi there 👋
-
-<!--
-**student-codingworld/student-codingworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ============================ HEADER ============================ -->
-
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Pawan Patel - Full-Stack Developer" />
+<img src="https://raw.githubusercontent.com/student-codingworld/student-codingworld/main/assets/header.svg" width="100%" alt="Pawan Patel - Full-Stack Developer" />
 
 <br/>
 
@@ -175,14 +156,14 @@ A clean task manager to organize daily work.
 
 <div align="center">
 
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="48%" alt="Profile details" />
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="48%" alt="Stats" />
-<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="48%" alt="Top languages by repo" />
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%" alt="Top languages by commit" />
+<img src="https://raw.githubusercontent.com/student-codingworld/student-codingworld/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="48%" alt="Profile details" />
+<img src="https://raw.githubusercontent.com/student-codingworld/student-codingworld/main/profile-summary-card-output/github_dark/3-stats.svg" width="48%" alt="Stats" />
+<img src="https://raw.githubusercontent.com/student-codingworld/student-codingworld/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="48%" alt="Top languages by repo" />
+<img src="https://raw.githubusercontent.com/student-codingworld/student-codingworld/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%" alt="Top languages by commit" />
 
 <br/>
 
-<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="70%" alt="Productive time" />
+<img src="https://raw.githubusercontent.com/student-codingworld/student-codingworld/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="70%" alt="Productive time" />
 
 <br/><br/>
 
