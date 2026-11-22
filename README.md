@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Pawan%20Patel&fontSize=64&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Full-Stack%20Developer%20%E2%80%A2%20Founder%20%26%20MD%20%40%20CodeAxis&descSize=20&descAlignY=62" width="100%" alt="Pawan Patel header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Pawan%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Founder%20of%20CodeAxis&descSize=20&descAlignY=60" width="100%" alt="Pawan Patel header" />
 
 <a href="https://github.com/student-codingworld">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%9A%80+Building+scalable+web+solutions;%F0%9F%92%BB+Full-Stack+Developer+%7C+PHP+%E2%80%A2+Python+%E2%80%A2+JavaScript;%F0%9F%A4%96+Creating+AI-powered+tools;%F0%9F%8F%A2+Founder+%26+MD+%40+CodeAxis;%E2%9A%A1+Always+learning%2C+always+shipping" alt="Typing animation" />
